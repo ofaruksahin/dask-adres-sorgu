@@ -22,7 +22,7 @@ namespace dask.adres.sorgu
             get
             {
                 if (String.IsNullOrEmpty(_token))
-                    _token = "";
+                    _token = GetToken();
                 return _token;
             }
             set { }
