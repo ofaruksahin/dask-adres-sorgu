@@ -1,0 +1,27 @@
+/src/dask.adres.sorgu/bin
+/src/dask.adres.sorgu/obj
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+.vs
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.assets.json
+cbcrm.btk.worker/obj/Debug/netcoreapp3.1/cbcrm.btk.worker.AssemblyInfo.cs
+cbcrm.btk.worker/obj/Debug/netcoreapp3.1/cbcrm.btk.worker.AssemblyInfoInputs.cache
+cbcrm.btk.worker/obj/Debug/netcoreapp3.1/cbcrm.btk.worker.csprojAssemblyReference.cache
+src/cbcrm.rabbitmq.client/obj/Debug/netcoreapp3.1/cbcrm.rabbitmq.client.csprojAssemblyReference.cache
+cbcrm.btk.worker/obj/Debug/netcoreapp3.1/cbcrm.btk.worker.csprojAssemblyReference.cache
