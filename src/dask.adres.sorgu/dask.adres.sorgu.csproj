@@ -6,6 +6,7 @@
     <Company>RichWarrior</Company>
     <Description>Dask Üzerinden İl,İlçe,Mahalle,Köy,Bina,Daire No,Adres Kodu Bilgilerini Almaya Yarayan Bir Kütüphane</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

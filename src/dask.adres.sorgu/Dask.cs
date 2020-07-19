@@ -68,7 +68,7 @@ namespace dask.adres.sorgu
                     }
                 }
                 response = client.Execute(request);
-                Encoding encoding = Encoding.GetEncoding("windows-1253");
+                Encoding encoding = Encoding.GetEncoding("windows-1254");
                 string content = encoding.GetString(response.RawBytes);
                 switch (response.StatusCode)
                 {
